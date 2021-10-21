@@ -1,12 +1,12 @@
 # classgrade.cpp
-This a c plus plus program that uses a while loop to read grades from a user ad prints their average values.
+This a c plus plus program that uses a while loop to read grades from a user and prints their average values.
 /*A simple C++ code I wrote recently,File Name:classgrades.cpp
 Author: Kepher Otieno.
 Twitter:@KepherOtieno1
 Date: 21-10-2021
 Language: C++ programming language.
 Purpose: To write a c++ program that uses while loop to read a sequence of grades (till -1 is entered ), 
-and prints the average*/
+and then prints the average*/
 #include <iostream>
 using namespace std;
 
